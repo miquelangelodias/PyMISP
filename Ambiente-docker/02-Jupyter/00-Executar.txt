@@ -1,0 +1,4 @@
+docker build . -f mega-rcd.Dockerfile -t jupyter_mega-rcd
+#senha
+
+# root_jupyter!@#
